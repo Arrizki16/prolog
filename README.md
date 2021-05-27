@@ -6,7 +6,7 @@ Some term that you have to know before learning prolog
 * [**Forward chaining and backward chaining**](#T3)
 
 
-**Knowledge Base**
+[**Knowledge Base**](#T1)
 
 1. Install swi-prolog
 ```
