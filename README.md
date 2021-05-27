@@ -24,8 +24,9 @@ swipl -s program_name.pl
 ```
 3. Hello world
 ```
-
+write('hello world').
 ```
+4. 
 5. Exit program
 ```
 halt.
