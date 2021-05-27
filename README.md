@@ -2,11 +2,13 @@
 
 Some term that you have to know before learning prolog
 * [**Knowledge Base**](#knowledge-base)
-* [**Facts, rules, and queries**](#T2)
-* [**Forward chaining and backward chaining**](#T3)
+* [**Facts, rules, and queries**](#facts-rules-and-queries)
+* [**Forward chaining and backward chaining**](#forward-chaining-and-backward-chaining)
 
 
 ### **Knowledge Base**
+### **Facts, rules, and queries**
+### **Forward chaining and backward chaining**
 
 1. Install swi-prolog
 ```
