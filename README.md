@@ -1,9 +1,9 @@
 # Tutorial Prolog with Linux
 
 Some term that you have to know before learning prolog
-1. [**Knowledge Base**](#Knowledge base)
-2. Facts, rules, and queries
-3. Forward chaining and backward chaining
+* [**Knowledge Base**](#T1)
+* [**Facts, rules, and queries**](#T2)
+* [**Forward chaining and backward chaining**](#T3)
 
 
 **Knowledge Base**
