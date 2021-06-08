@@ -7,7 +7,8 @@ Some term that you have to know before learning prolog
 
 
 ### **Knowledge Base**
-### **Facts, rules, and queries**
+### **Facts, rules, and queries**  
+
 ### **Forward chaining and backward chaining**
 
 1. Install swi-prolog
@@ -26,8 +27,12 @@ swipl -s program_name.pl
 ```
 write('hello world').
 ```
-4. 
-5. Exit program
+4. Logical tables  
+![Untitled](https://user-images.githubusercontent.com/55046884/121104945-487a7300-c82d-11eb-870d-b2296aef16a2.png)  
+
+5. Quantifiers
+
+6. Exit program
 ```
 halt.
 ```
