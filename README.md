@@ -30,7 +30,9 @@ write('hello world').
 4. Logical tables  
 ![Untitled](https://user-images.githubusercontent.com/55046884/121104945-487a7300-c82d-11eb-870d-b2296aef16a2.png)  
 
-5. Quantifiers
+5. Quantifiers  
+Universal quantification (∀X)  
+Existential quantification (ƎX)  
 
 6. Exit program
 ```
