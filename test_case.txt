@@ -1,0 +1,49 @@
+grandfather(jono,dani). true
+grandmother(jono,dani). false
+grandmother(X,sri).     x = sri
+grandfather(X,jidan).   x = juni
+
+father(X,Y).            x = dani, y=jidan   karena dani paling awal
+
+brother(adit,dani).
+brother(X,dani).
+
+!!!!! kalau brothernya lebih dari satu belum benar
+
+cousin(sri,dani).       true
+cousin(sri,bunga).      true
+cousin(adit,sri).       true
+cousin(adit,dani).      false
+
+greatgrandmother(jono,jidan).   false
+greatgrandmother(siti,jidan).   true
+greatgrandmother(jia,jidan).    false
+
+brother_of_grandparent(X,jidan).        riski
+brother_of_grandparent(riski,jidan).    true
+brother_of_grandparent(astuti,jidan).   false
+sister_of_grandparent(riski,jidan).     false
+sister_of_grandparent(astuti,jidan).    true
+sister_of_grandparent(siti,bunga).      false
+
+
+sister_in_law(jia,bunga).       true
+sister_in_law(astuti,dwi).      false
+sister_in_law(dwi,astuti).      true
+brother_in_law(akbar,riski).    true
+
+aunt(sri,jidan).        true
+aunt(bunga,jidan).      true
+uncle(akbar,dani).      true
+uncle(riski,adit).      true
+uncle(riski,sri).       true
+
+
+
+
+
+nothing_relations
+1. jia -> riski
+2. jidan -> akbar
+
+
