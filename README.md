@@ -38,3 +38,5 @@ Existential quantification (ƎX)
 ```
 halt.
 ```
+**Tips**  
+If you want to see all grandchild just add ; in the last  
