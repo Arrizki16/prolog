@@ -8,8 +8,6 @@ father(X,Y).            x = dani, y=jidan   karena dani paling awal
 brother(adit,dani).
 brother(X,dani).
 
-!!!!! kalau brothernya lebih dari satu belum benar
-
 cousin(sri,dani).       true
 cousin(sri,bunga).      true
 cousin(adit,sri).       true
@@ -37,10 +35,6 @@ aunt(bunga,jidan).      true
 uncle(akbar,dani).      true
 uncle(riski,adit).      true
 uncle(riski,sri).       true
-
-
-
-
 
 nothing_relations
 1. jia -> riski
