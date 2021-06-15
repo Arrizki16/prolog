@@ -39,4 +39,7 @@ Existential quantification (ƎX)
 halt.
 ```
 **Tips**  
-If you want to see all grandchild just add ; in the last  
+If you want to see all grandchild just add ; in the last
+![Screenshot_2021-06-15_07-40-35](https://user-images.githubusercontent.com/55046884/121975955-07460e00-cdad-11eb-870e-c17d66fe5d93.png)  
+If not using ; it will be  
+![Screenshot_2021-06-15_07-42-49](https://user-images.githubusercontent.com/55046884/121976053-3b213380-cdad-11eb-9e00-ff0060ccee7d.png)  
